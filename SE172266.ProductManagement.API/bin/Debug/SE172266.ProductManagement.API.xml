@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SE172266.ProductManagement.API</name>
+    </assembly>
+    <members>
+        <member name="M:SE172266.ProductManagement.API.Controllers.ProductController.SearchProduct(SE172266.ProductManagement.API.Model.ProductModel.SearchProductModel)">
+            <summary>
+            SortBy (ProductId = 1, ProductName = 2, CategoryId = 3, UnitsInStock = 4, UnitPrice = 5)
+            
+            SortType (Ascending = 1, Descending = 2)
+            </summary>
+            <param name="requestSearchProductModel"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
